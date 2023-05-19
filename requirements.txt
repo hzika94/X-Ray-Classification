@@ -6,3 +6,5 @@ tensorflow-io-gcs-filesystem==0.31.0
 opencv-python==4.7.0.72
 pandas==1.4.4
 Pillow==9.2.0
+numpy==1.23.2
+
